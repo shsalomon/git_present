@@ -2,8 +2,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&color=2E1BF7&multiline=true&random=false&width=690&height=90&lines=Sedjro+Salomon+Hotegni;PhD+Student+%7C+Data+Science+for+Engineering;Multicriteria+Machine+Learning+%7C+Computer+Vision" alt="Typing SVG" /></a>
 <br/>
 
+
 <a href="https://gkos.dev">
-    <img src="https://img.shields.io/badge/Website-gkos.dev-red?style=flat-square">
+    <img src="https://img.shields.io/badge/Website-shsalomon.github.io-red?style=flat-square">
 </a>  
 <a href="https://gkos.dev/Resume.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
