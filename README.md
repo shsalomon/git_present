@@ -3,7 +3,7 @@
 <br/>
 
 
-<a href="https://gkos.dev">
+<a href="https://shsalomon.github.io/">
     <img src="https://img.shields.io/badge/Website-shsalomon.github.io-red?style=flat-square">
 </a>  
 <a href="https://gkos.dev/Resume.pdf">
