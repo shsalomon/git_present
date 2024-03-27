@@ -1,7 +1,5 @@
 <p align="center">
-<a href="https://github.com/drkostas">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Kostas+Georgiou;Researcher+%7C+PhD+Student+%7C+Software+Engineer;AI+%7C+Computer+Vision+%7C+Bots" alt="Typing SVG" />
-</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=2E1BF7&multiline=true&random=false&width=750&height=100&lines=Sedjro+Salomon+Hotegni;PhD+Student+%7C+Data+Science+for+Engineering;Multicriteria+Machine+Learning+%7C+Computer+Vision" alt="Typing SVG" /></a>
 <br/>
 
 <a href="https://gkos.dev">
